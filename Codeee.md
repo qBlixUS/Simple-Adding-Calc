@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 class addingCalc {
 
-                Scanner keyPressed= new Scanner(System.in);
+           Scanner keyPressed= new Scanner(System.in);
 
 		double n1, n2;                                        #declares the first and second number
 
